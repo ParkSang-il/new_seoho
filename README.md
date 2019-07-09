@@ -1,2 +1,2 @@
 # seoho
-서호 git server
+Seoho Git Server Name { new_seoho }
