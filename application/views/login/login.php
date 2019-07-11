@@ -1,7 +1,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <b>SEOHO CMS</b>
+        <b>SEOHO CMS TEST SERVER</b>
     </div>
     <!-- /.login-logo -->
     <div class="card">
